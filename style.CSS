@@ -1,0 +1,8 @@
+.text-img {
+  font-size:200px;
+  background-image: url("./flag.jpg");
+  background-size:contain;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 20%;
+}
